@@ -148,4 +148,16 @@ i {
     iframe {
         width: 100%;
     }
+
+    i {
+        display: none;
+    }
+
+    .poster {
+        height: 100%;
+    }
+
+    .frame {
+        height: 100%;
+    }
 }
